@@ -1,3 +1,4 @@
+// @ts-ignore
 import { GraphQLObjectType } from "graphql";
 import { IAddBookInput, IBook } from "./book.resolver.spec";
 
